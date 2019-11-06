@@ -1,2 +1,4 @@
 # hello-world
-Learn
+Learn 
+
+Today is my first time to use Github, So in Memory.
